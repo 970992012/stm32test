@@ -1,2 +1,2 @@
-#stm32test
-一些stm32hal库的项目文件，驱动pwm风扇电机等等
+# stm32_test
+一些零散的STM32HAL库项目，驱动pwm风扇电机等等
